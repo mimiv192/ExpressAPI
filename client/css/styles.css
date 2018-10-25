@@ -1,0 +1,24 @@
+#chirper-icon{
+    height:100px;
+    width:100px;
+    color: lightblue
+}
+
+#jumbotron {
+    color: lightblue;
+    background-color: rgb(28, 83, 165);
+    width:100px;
+   
+}
+/* .display-4{
+    text-weight: bold;
+} */
+
+body {
+    background-color: rgb(28, 83, 165);
+}
+
+h1{
+    color: lightblue;
+    background-color: rgb(28, 83, 165);
+}
